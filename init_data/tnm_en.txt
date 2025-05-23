@@ -1,0 +1,15 @@
+T factor (simplified version):
+T1: size of lung cancer, <3 cm;
+T2: size of lung cancer, 3–5 cm;
+T3: (size of lung cancer, 5–7 cm) or (local invasion of chest wall, parietal pericardium, phrenic nerve);
+T4: (size of lung cancer, >7 cm) or (invasion to the mediastinum, trachea, heart/great vessels, esophagus, vertebra, carina, recurrent laryngeal nerve).
+
+N factor (simplified version):
+N0: no regional lymph node metastasis;
+N1: metastasis in ipsilateral peribronchial and/or hilar lymph node and intrapulmonary node;
+N2: metastasis in ipsilateral mediastinal and/or subcarinal lymph nodes;
+N3: metastasis in the contralateral mediastinal, contralateral hilar, ipsilateral, contralateral scalene, or supraclavicular lymph node(s).
+
+M factor (simplified version):
+M0: no distant metastasis;
+M1: distant metastasis.
